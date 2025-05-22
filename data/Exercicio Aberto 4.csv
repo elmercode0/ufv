@@ -1,0 +1,352 @@
+Nome do Produto,Nome do Produtor,Moeda,Valor do Produto,Data de Venda,id_comprador,Idade,Localização,Tipo de Pagamento
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,25/05/2021,142,23,São Paulo,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,25/05/2021,158,29,Minas Gerais,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,25/05/2021,175,,MINAS GERAIS,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,25/05/2021,37,26,MINAS GERAIS,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,25/05/2021,49,26,MINAS GERAIS,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,25/05/2021,55,34,Rio de Janeiro,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,25/05/2021,62,,São Paulo,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,15,40,SÃO PAULO,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,170,32,Bahia,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,172,32,Amazonas,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,178,,Distrito Federal,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,183,19,Goiás,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,185,20,GOIÁS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,195,21,GOIÁS,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,204,23,Distrito Federal,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,25,26,BAHIA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,60,28,Santa Ctarina,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,66,29,Pará,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,69,31,Pará,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,70,33,PARA,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,79,36,MINAS GERAIS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,8,35,MINAS GERAIS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,25/05/2021,89,34,Rio de Janeiro,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,26/05/2021,136,50,São Paulo,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,26/05/2021,180,51,SÃO PAULO,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,26/05/2021,227,21,Bahia,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,26/05/2021,239,32,Amazonas,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,108,,Distrito Federal,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,133,19,Goiás,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,154,0,GOIÁS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,16,0,GOIÁS,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,169,56,Distrito Federal,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,191,,BAHIA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,27,,Santa Ctarina,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,202,36,Pará,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,221,25,BAHIA,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,222,26,Santa Ctarina,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,223,27,Pará,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,230,28,Pará,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,237,29,PARA,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,3,21,MINAS GERAIS,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,38,21,MINAS GERAIS,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,42,21,Rio de Janeiro,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,83,0,São Paulo,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,26/05/2021,9,0,SÃO PAULO,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,27/05/2021,167,0,Bahia,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,27/05/2021,186,32,Amazonas,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,27/05/2021,205,26,Distrito Federal,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,27/05/2021,75,28,Goiás,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,27/05/2021,88,29,GOIÁS,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,1,31,GOIÁS,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,109,33,Distrito Federal,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,111,36,BAHIA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,131,35,Santa Ctarina,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,155,34,Pará,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,160,50,BAHIA,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,165,51,Santa Ctarina,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,174,21,Pará,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,188,32,Pará,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,20,,PARA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,201,19,MINAS GERAIS,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,203,0,Espirito Santo,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,208,0,Espirito Santo,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,219,56,Espirito Santo,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,239,,GOIÁS,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,51,,Distrito Federal,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,,27/05/2021,59,36,BAHIA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,63,25,Santa Ctarina,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,73,26,Pará,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,82,27,BAHIA,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,27/05/2021,99,28,Santa Ctarina,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,28/05/2021,102,29,Pará,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,28/05/2021,166,21,Pará,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,28/05/2021,19,21,PARA,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,28/05/2021,20,21,MINAS GERAIS,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,28/05/2021,30,0,Espirito Santo,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,28/05/2021,22,0,MINAS GERAIS,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,,28/05/2021,229,0,Rio de Janeiro,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,103,32,São Paulo,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,105,23,SÃO PAULO,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,117,29,Bahia,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,126,,Amazonas,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,134,26,Distrito Federal,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,141,26,Goiás,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,168,34,GOIÁS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,180,,GOIÁS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,182,40,Distrito Federal,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,200,32,BAHIA,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,235,32,Santa Ctarina,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,241,,Pará,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,28,19,BAHIA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,31,20,Santa Ctarina,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,33,21,Pará,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,55,23,Pará,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,56,26,PARA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,,28/05/2021,75,19,MINAS GERAIS,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,91,20,Espirito Santo,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,95,21,MINAS GERAIS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,96,23,Rio de Janeiro,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,28/05/2021,98,26,São Paulo,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,29/05/2021,103,28,SÃO PAULO,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,29/05/2021,104,29,Bahia,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,29/05/2021,130,31,Amazonas,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,29/05/2021,192,33,Sergipe,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,29/05/2021,194,20,Sergipe,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,29/05/2021,23,21,Ceará,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,29/05/2021,235,23,Maranhão,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,29/05/2021,51,26,Piauí,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,100,19,Tocantins,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,115,20,Pará,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,153,21,Pará,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,17,19,PARA,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,176,20,MINAS GERAIS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,186,21,Espirito Santo,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,187,23,MINAS GERAIS,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,30,26,Rio de Janeiro,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,218,28,São Paulo,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,228,29,SÃO PAULO,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,23,31,Bahia,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,234,33,Amazonas,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,238,20,Sergipe,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,242,21,Sergipe,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,4,23,Ceará,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,44,26,Maranhão,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,45,21,Piauí,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,46,23,Tocantins,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,81,26,PARA,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,29/05/2021,93,28,MINAS GERAIS,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,30/05/2021,106,29,Espirito Santo,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,30/05/2021,197,31,MINAS GERAIS,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,30/05/2021,69,33,Rio de Janeiro,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,10,20,São Paulo,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,106,21,SÃO PAULO,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,116,23,Bahia,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,129,26,Amazonas,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,130,19,Sergipe,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,150,20,Sergipe,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,162,21,Ceará,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,167,19,Maranhão,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,171,20,Piauí,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,179,21,Rio de Janeiro,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,192,23,São Paulo,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,217,26,SÃO PAULO,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,244,28,Bahia,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,245,29,Amazonas,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,246,31,Sergipe,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,36,33,Ceará,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,6,20,Maranhão,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,64,21,Piauí,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,30/05/2021,80,23,Tocantins,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,31/05/2021,120,26,PARÁ,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,31/05/2021,145,21,Sergipe,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,31/05/2021,15,23,Sergipe,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,31/05/2021,155,26,Ceará,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,31/05/2021,160,28,Maranhão,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,31/05/2021,163,29,Piauí,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,31/05/2021,76,31,Rio de Janeiro,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,31/05/2021,90,33,São Paulo,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,31/05/2021,124,20,SÃO PAULO,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,31/05/2021,159,21,Bahia,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,31/05/2021,232,23,Amazonas,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,31/05/2021,209,26,Sergipe,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,31/05/2021,243,20,Ceará,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,31/05/2021,26,21,Maranhão,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,31/05/2021,49,23,Piauí,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,31/05/2021,88,26,Tocantins,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,31/05/2021,90,19,PARA,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,01/06/2021,112,20,Piauí,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,01/06/2021,208,21,Rio de Janeiro,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,01/06/2021,63,19,São Paulo,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,01/06/2021,64,20,SÃO PAULO,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,113,21,Bahia,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,122,23,Amazonas,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,125,26,Sergipe,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,127,28,Ceará,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,132,29,Maranhão,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,135,31,Piauí,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,147,33,Tocantins,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,212,20,PARÁ,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,181,21,Sergipe,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,207,28,Sergipe,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,216,29,Ceará,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,224,31,Maranhão,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,226,33,Piauí,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,40,20,Rio de Janeiro,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,58,21,São Paulo,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,74,23,SÃO PAULO,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,01/06/2021,77,26,Bahia,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,02/06/2021,151,20,Amazonas,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,02/06/2021,176,21,Espirito Santo,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,02/06/2021,195,23,Espirito Santo,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,02/06/2021,198,26,GOIÁS,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,02/06/2021,223,19,Distrito Federal,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,02/06/2021,34,20,BAHIA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,102,21,Santa Ctarina,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,11,23,Pará,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,110,26,BAHIA,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,112,28,Santa Ctarina,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,114,29,Pará,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,119,31,Pará,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,139,33,PARA,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,14,20,MINAS GERAIS,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,140,21,Espirito Santo,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,142,28,MINAS GERAIS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,148,29,Rio de Janeiro,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,161,31,São Paulo,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,173,33,SÃO PAULO,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,175,20,Bahia,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,177,21,Amazonas,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,2,29,Distrito Federal,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,21,31,Goiás,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,214,33,GOIÁS,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,215,20,GOIÁS,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,220,21,Distrito Federal,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,236,23,BAHIA,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,240,26,Santa Ctarina,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,248,20,Pará,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,34,21,BAHIA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,41,23,Santa Ctarina,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,85,26,Pará,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,92,0,Pará,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,94,,PARA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,02/06/2021,97,,MINAS GERAIS,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,03/06/2021,101,,Espirito Santo,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,03/06/2021,117,,MINAS GERAIS,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,03/06/2021,157,,Rio de Janeiro,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,03/06/2021,193,26,São Paulo,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,03/06/2021,29,28,SÃO PAULO,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,03/06/2021,204,29,Bahia,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,03/06/2021,206,31,Amazonas,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,03/06/2021,222,33,Sergipe,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,03/06/2021,35,20,Piauí,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,03/06/2021,44,21,Rio de Janeiro,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,03/06/2021,80,28,São Paulo,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,03/06/2021,95,29,SÃO PAULO,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,101,31,Bahia,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,121,33,Amazonas,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,128,20,Sergipe,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,13,21,Ceará,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,151,29,Maranhão,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,157,31,Piauí,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,194,33,Tocantins,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,29,20,PARÁ,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,231,21,Sergipe,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,37,23,Sergipe,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,50,29,Ceará,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,53,31,Maranhão,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,03/06/2021,65,33,Piauí,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,04/06/2021,170,20,Rio de Janeiro,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,04/06/2021,181,21,São Paulo,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,04/06/2021,202,28,SÃO PAULO,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,04/06/2021,21,29,Bahia,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,04/06/2021,236,31,Amazonas,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,04/06/2021,26,33,Espirito Santo,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,04/06/2021,67,20,Espirito Santo,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,123,21,GOIÁS,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,137,29,Distrito Federal,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,143,31,BAHIA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,144,33,Santa Ctarina,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,149,21,Pará,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,19,28,BAHIA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,205,29,Santa Ctarina,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,211,31,Pará,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,225,33,Pará,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,24,20,PARA,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,35,21,MINAS GERAIS,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,47,29,Espirito Santo,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,67,31,MINAS GERAIS,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,04/06/2021,7,33,Rio de Janeiro,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,10,20,São Paulo,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,133,21,SÃO PAULO,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,150,23,Bahia,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,171,29,Amazonas,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,190,31,Distrito Federal,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,207,33,Goiás,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,24,20,GOIÁS,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,32,21,São Paulo,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,50,28,Minas Gerais,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,58,29,MINAS GERAIS,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,65,21,MINAS GERAIS,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,71,29,MINAS GERAIS,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,05/06/2021,93,31,Rio de Janeiro,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,05/06/2021,12,33,São Paulo,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,05/06/2021,136,21,SÃO PAULO,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,05/06/2021,145,28,Bahia,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,05/06/2021,164,29,Amazonas,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,05/06/2021,190,31,Distrito Federal,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,05/06/2021,193,33,Goiás,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,05/06/2021,196,20,GOIÁS,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,05/06/2021,210,21,GOIÁS,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,05/06/2021,213,29,Distrito Federal,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,05/06/2021,32,31,BAHIA,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,05/06/2021,48,33,Santa Ctarina,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,05/06/2021,71,20,Pará,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,06/06/2021,209,21,Pará,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,06/06/2021,244,21,PARA,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,06/06/2021,85,23,MINAS GERAIS,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,06/06/2021,9,29,MINAS GERAIS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,118,31,Rio de Janeiro,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,152,33,São Paulo,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,156,20,SÃO PAULO,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,163,21,Bahia,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,166,28,Amazonas,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,199,29,Distrito Federal,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,22,21,Goiás,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,227,29,GOIÁS,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,5,31,GOIÁS,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,57,33,Distrito Federal,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,61,21,BAHIA,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,84,28,Santa Ctarina,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,06/06/2021,86,29,Pará,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,07/06/2021,105,20,BAHIA,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,07/06/2021,122,21,Santa Ctarina,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,07/06/2021,148,29,Pará,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,07/06/2021,174,31,Pará,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,07/06/2021,179,33,PARA,Cartão de Crédito
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,07/06/2021,228,20,MINAS GERAIS,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,07/06/2021,233,21,MINAS GERAIS,Boleto
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,07/06/2021,89,21,Rio de Janeiro,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,104,23,São Paulo,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,138,29,SÃO PAULO,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,146,31,Bahia,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,189,33,Amazonas,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,184,20,Distrito Federal,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,206,21,Goiás,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,233,28,GOIÁS,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,52,29,GOIÁS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,54,21,MINAS GERAIS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,62,29,Rio de Janeiro,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,68,21,São Paulo,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,72,29,SÃO PAULO,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,07/06/2021,87,31,Bahia,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,08/06/2021,138,33,Amazonas,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,08/06/2021,14,20,Distrito Federal,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,08/06/2021,156,21,Goiás,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,08/06/2021,173,21,GOIÁS,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,08/06/2021,25,23,São Paulo,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,08/06/2021,33,29,Minas Gerais,Pix
+Manual para conquistar a Lua,Neil Armstrong,BRL,250,08/06/2021,47,31,MINAS GERAIS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,08/06/2021,107,33,MINAS GERAIS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,08/06/2021,120,20,MINAS GERAIS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,08/06/2021,158,,Rio de Janeiro,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,08/06/2021,18,,São Paulo,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,08/06/2021,197,,SÃO PAULO,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,08/06/2021,198,,Bahia,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,08/06/2021,229,21,Amazonas,Boleto
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,08/06/2021,39,23,Distrito Federal,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,08/06/2021,247,29,Goiás,Cartão de Crédito
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,08/06/2021,43,31,GOIÁS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,08/06/2021,78,45,GOIÁS,Pix
+Mentoria Apollo 11,Neil Armstrong,BRL,1997,08/06/2021,76,60,Distrito Federal,Boleto
