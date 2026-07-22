@@ -1,0 +1,6 @@
+Melhor n (curva RFE): 10  R2 CV = 0.8656
+R2 CV (n=10 fixo): 0.8656
+Features (n=10): ['NDVI_d28', 'SAVI_d28', 'NDVI_d01', 'SAVI_d01', 'NDVI_d04', 'SAVI_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'SR_d08']
+R2 teste: 0.8876
+RMSE teste: 7.5395
+MAE teste: 6.3441

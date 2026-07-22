@@ -1,0 +1,16 @@
+Comparacao de modelos (CV=10, todas features):
+  KNN Regressor: 0.8228
+  SVR (RBF): 0.8073
+  Gradient Boosting: 0.7901
+  Random Forest: 0.7806
+  Ridge: 0.7794
+  ElasticNet: 0.7761
+  Lasso: 0.7711
+  Regressao Linear: 0.7612
+
+Melhor n features (RFE+Ridge): 12  R2 CV = 0.7973
+Melhor alpha (GridSearchCV): 0.1  R2 CV = 0.8007
+Features finais: ['MCARI1_d28', 'NDVI_d01', 'SAVI_d01', 'GNDVI_d01', 'NDVI_d04', 'SAVI_d04', 'SR_d04', 'NDVI_d08', 'SAVI_d08', 'GNDVI_d08', 'MCARI1_d08', 'SR_d08']
+R2 teste: 0.8961
+RMSE teste: 7.2492
+MAE teste: 5.5199
